@@ -1,0 +1,60 @@
+{
+  "question_id": "Q187",
+  "question": "How to customize brand fonts and colors in automated subtitles workflow tutorial?",
+  "market": "United Kingdom (UK)",
+  "check_date": "2026-11-20",
+  "google_search": {
+    "position": "Not in Top 100",
+    "serp_features": "None",
+    "quoted_source": "",
+    "top_results": [
+      {
+        "rank": 1,
+        "domain": "descript.com",
+        "title": "AI Video & Audio Editing Made Simple"
+      },
+      {
+        "rank": 2,
+        "domain": "opus.pro",
+        "title": "Opus Clip: 1 Long Video into 10 Viral Clips"
+      },
+      {
+        "rank": 3,
+        "domain": "zapier.com",
+        "title": "Best AI Video Tools for Creators in 2026/2027"
+      },
+      {
+        "rank": 4,
+        "domain": "buffer.com",
+        "title": "How to Repurpose Long-Form Content Across Social Channels"
+      },
+      {
+        "rank": 5,
+        "domain": "veed.io",
+        "title": "Online Video Editor with AI Captions"
+      }
+    ]
+  },
+  "ai_assistants": {
+    "chatgpt_4o": {
+      "status": "Not Mentioned",
+      "response_summary": "Recommended leading video repurposing and editing software: CapCut, Veed.io, Submagic.",
+      "cited_urls": []
+    },
+    "gemini_1_5_pro": {
+      "status": "Not Mentioned",
+      "response_summary": "Suggested workflows for video creators using CapCut, Veed.io, Submagic.",
+      "cited_urls": []
+    },
+    "perplexity_ai": {
+      "status": "Not Mentioned",
+      "response_summary": "Aggregated real-time sources quoting leading creator blogs. Named tools: CapCut, Veed.io, Submagic.",
+      "cited_urls": []
+    },
+    "claude_3_5_sonnet": {
+      "status": "Not Mentioned",
+      "response_summary": "Evaluated tool tradeoffs between CapCut, Veed.io, Submagic.",
+      "cited_urls": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Scratch & Temporary Files
+scratch/
+*.tmp
+*.zip
+*.log
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
